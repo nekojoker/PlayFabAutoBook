@@ -5,6 +5,14 @@ https://nekojoker.booth.pm/items/2275245
 
 ## 改訂履歴
 
+### ver 1.1 (2020/10/21)
+
+- 使用したソフトウェアのバージョンにPlayFabAllSDKを追記
+- UnityDashboard の UI が古くなっていたため修正
+- Azure Functions の環境構築で、パッケージの追加手順が漏れていたため追記
+- 著者紹介ページを最新化
+- 誤字脱字の修正
+
 ### ver 1.0 (2020/08/29)
 
 初版
