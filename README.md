@@ -5,6 +5,12 @@ https://nekojoker.booth.pm/items/2275245
 
 ## 改訂履歴
 
+### ver 1.2 (2021/03/20)
+
+- PlayFabCloudScriptPlugin パッケージは CS2AFHelperClasses.cs があれば不要だったので、インストール手順から削除
+- 著者紹介ページを最新化
+- 誤字脱字の修正
+
 ### ver 1.1 (2020/10/21)
 
 - 使用したソフトウェアのバージョンにPlayFabAllSDKを追記
