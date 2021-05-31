@@ -5,6 +5,13 @@ https://nekojoker.booth.pm/items/2275245
 
 ## 改訂履歴
 
+### ver 1.3 (2021/05/31)
+
+- 「playfab.local.settings.json」に関して、VS Code 拡張機能で「Enable local debugging」をすればファイルが作成され、「Disable local debugging」をすればファイルが削除される内容に修正
+- RemovePlayerTagAsyncのリンクを正しいものに修正
+- 著者ポートフォリオを最新化
+- 誤字脱字の修正、文章表現の見直し
+
 ### ver 1.2 (2021/03/20)
 
 - PlayFabCloudScriptPlugin パッケージは CS2AFHelperClasses.cs があれば不要だったので、インストール手順から削除
