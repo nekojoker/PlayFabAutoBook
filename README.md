@@ -5,6 +5,11 @@ https://nekojoker.booth.pm/items/2275245
 
 ## 改訂履歴
 
+### ver 1.4 (2021/11/15)
+
+- Azure Functions を使うデメリットからパブリックプレビューの内容を削除し、2021年11月に正式リリースされた内容を追記
+- 著者ポートフォリオを最新化
+
 ### ver 1.3 (2021/05/31)
 
 - 「playfab.local.settings.json」に関して、VS Code 拡張機能で「Enable local debugging」をすればファイルが作成され、「Disable local debugging」をすればファイルが削除される内容に修正
