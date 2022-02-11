@@ -5,6 +5,12 @@ https://nekojoker.booth.pm/items/2275245
 
 ## 改訂履歴
 
+### ver 1.5 (2022/02/11)
+
+- CS2AFHelperClasses.cs を使用するには、PlayFab.Samples の using を追加する必要がある旨を追記
+- JavaScript 版の CloudScript はレガシー（非推奨）の機能となった旨を追記
+- .Net Core 3.1 のリンクが機能するよう修正
+
 ### ver 1.4 (2021/11/15)
 
 - Azure Functions を使うデメリットからパブリックプレビューの内容を削除し、2021年11月に正式リリースされた内容を追記
