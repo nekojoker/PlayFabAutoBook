@@ -5,6 +5,14 @@ https://nekojoker.booth.pm/items/2275245
 
 ## 改訂履歴
 
+### ver 1.6 (2022/05/15)
+
+- Azure Functions の料金を最新化
+- Azure Functions を .NET 6 に対応
+- Azure Functions の実行方法に Visual Studio の手順を追記
+- セグメントの補足を削除（すでに解決されていたため）
+- 著者ポートフォリオを最新化
+
 ### ver 1.5 (2022/02/11)
 
 - CS2AFHelperClasses.cs を使用するには、PlayFab.Samples の using を追加する必要がある旨を追記
